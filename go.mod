@@ -1,4 +1,4 @@
-module github.com/stainless-sdks/miru-server-go
+module github.com/miruml/go-server-sdk
 
 go 1.22
 

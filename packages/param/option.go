@@ -3,7 +3,7 @@ package param
 import (
 	"encoding/json"
 	"fmt"
-	shimjson "github.com/stainless-sdks/miru-server-go/internal/encoding/json"
+	shimjson "github.com/miruml/go-server-sdk/internal/encoding/json"
 	"time"
 )
 

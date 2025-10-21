@@ -1,8 +1,8 @@
 package sentinel_test
 
 import (
-	"github.com/stainless-sdks/miru-server-go/internal/encoding/json/sentinel"
-	"github.com/stainless-sdks/miru-server-go/packages/param"
+	"github.com/miruml/go-server-sdk/internal/encoding/json/sentinel"
+	"github.com/miruml/go-server-sdk/packages/param"
 	"reflect"
 	"slices"
 	"testing"

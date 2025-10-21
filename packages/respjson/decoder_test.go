@@ -3,8 +3,8 @@ package respjson_test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/stainless-sdks/miru-server-go/internal/apijson"
-	rj "github.com/stainless-sdks/miru-server-go/packages/respjson"
+	"github.com/miruml/go-server-sdk/internal/apijson"
+	rj "github.com/miruml/go-server-sdk/packages/respjson"
 	"reflect"
 	"testing"
 )

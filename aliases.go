@@ -3,8 +3,8 @@
 package miruserver
 
 import (
-	"github.com/stainless-sdks/miru-server-go/internal/apierror"
-	"github.com/stainless-sdks/miru-server-go/packages/param"
+	"github.com/miruml/go-server-sdk/internal/apierror"
+	"github.com/miruml/go-server-sdk/packages/param"
 )
 
 // aliased to make [param.APIUnion] private when embedding

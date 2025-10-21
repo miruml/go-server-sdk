@@ -2,8 +2,8 @@ package apijson_test
 
 import (
 	"encoding/json"
-	"github.com/stainless-sdks/miru-server-go/internal/apijson"
-	"github.com/stainless-sdks/miru-server-go/packages/respjson"
+	"github.com/miruml/go-server-sdk/internal/apijson"
+	"github.com/miruml/go-server-sdk/packages/respjson"
 	"testing"
 )
 
