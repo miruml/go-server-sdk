@@ -1,7 +1,7 @@
 package miruserver
 
 import (
-	"github.com/stainless-sdks/miru-server-go/packages/param"
+	"github.com/miruml/go-server-sdk/packages/param"
 	"io"
 	"time"
 )

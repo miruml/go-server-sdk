@@ -18,10 +18,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/stainless-sdks/miru-server-go/internal"
-	"github.com/stainless-sdks/miru-server-go/internal/apierror"
-	"github.com/stainless-sdks/miru-server-go/internal/apiform"
-	"github.com/stainless-sdks/miru-server-go/internal/apiquery"
+	"github.com/miruml/go-server-sdk/internal"
+	"github.com/miruml/go-server-sdk/internal/apierror"
+	"github.com/miruml/go-server-sdk/internal/apiform"
+	"github.com/miruml/go-server-sdk/internal/apiquery"
 )
 
 func getDefaultHeaders() map[string]string {

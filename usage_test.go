@@ -7,9 +7,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/stainless-sdks/miru-server-go"
-	"github.com/stainless-sdks/miru-server-go/internal/testutil"
-	"github.com/stainless-sdks/miru-server-go/option"
+	"github.com/miruml/go-server-sdk"
+	"github.com/miruml/go-server-sdk/internal/testutil"
+	"github.com/miruml/go-server-sdk/option"
 )
 
 func TestUsage(t *testing.T) {

@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/stainless-sdks/miru-server-go/packages/param"
+	"github.com/miruml/go-server-sdk/packages/param"
 )
 
 type Struct struct {

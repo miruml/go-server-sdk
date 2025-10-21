@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/stainless-sdks/miru-server-go/packages/param"
+	"github.com/miruml/go-server-sdk/packages/param"
 )
 
 var encoders sync.Map // map[encoderEntry]encoderFunc

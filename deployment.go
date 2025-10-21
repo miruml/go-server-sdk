@@ -11,12 +11,12 @@ import (
 	"slices"
 	"time"
 
-	"github.com/stainless-sdks/miru-server-go/internal/apijson"
-	"github.com/stainless-sdks/miru-server-go/internal/apiquery"
-	"github.com/stainless-sdks/miru-server-go/internal/requestconfig"
-	"github.com/stainless-sdks/miru-server-go/option"
-	"github.com/stainless-sdks/miru-server-go/packages/param"
-	"github.com/stainless-sdks/miru-server-go/packages/respjson"
+	"github.com/miruml/go-server-sdk/internal/apijson"
+	"github.com/miruml/go-server-sdk/internal/apiquery"
+	"github.com/miruml/go-server-sdk/internal/requestconfig"
+	"github.com/miruml/go-server-sdk/option"
+	"github.com/miruml/go-server-sdk/packages/param"
+	"github.com/miruml/go-server-sdk/packages/respjson"
 )
 
 // DeploymentService contains methods and other services that help with interacting

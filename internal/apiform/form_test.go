@@ -2,7 +2,7 @@ package apiform
 
 import (
 	"bytes"
-	"github.com/stainless-sdks/miru-server-go/packages/param"
+	"github.com/miruml/go-server-sdk/packages/param"
 	"io"
 	"mime/multipart"
 	"strings"

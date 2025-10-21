@@ -1,7 +1,7 @@
 package sentinel
 
 import (
-	"github.com/stainless-sdks/miru-server-go/internal/encoding/json/shims"
+	"github.com/miruml/go-server-sdk/internal/encoding/json/shims"
 	"reflect"
 	"sync"
 )

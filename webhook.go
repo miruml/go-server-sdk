@@ -5,9 +5,9 @@ package miruserver
 import (
 	"time"
 
-	"github.com/stainless-sdks/miru-server-go/internal/apijson"
-	"github.com/stainless-sdks/miru-server-go/option"
-	"github.com/stainless-sdks/miru-server-go/packages/respjson"
+	"github.com/miruml/go-server-sdk/internal/apijson"
+	"github.com/miruml/go-server-sdk/option"
+	"github.com/miruml/go-server-sdk/packages/respjson"
 )
 
 // WebhookService contains methods and other services that help with interacting
