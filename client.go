@@ -8,8 +8,8 @@ import (
 	"os"
 	"slices"
 
-	"github.com/stainless-sdks/miru-server-go/internal/requestconfig"
-	"github.com/stainless-sdks/miru-server-go/option"
+	"github.com/miruml/go-server-sdk/internal/requestconfig"
+	"github.com/miruml/go-server-sdk/option"
 )
 
 // Client creates a struct with services and top level methods that help with

@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/stainless-sdks/miru-server-go"
-	"github.com/stainless-sdks/miru-server-go/internal"
-	"github.com/stainless-sdks/miru-server-go/option"
+	"github.com/miruml/go-server-sdk"
+	"github.com/miruml/go-server-sdk/internal"
+	"github.com/miruml/go-server-sdk/option"
 )
 
 type closureTransport struct {

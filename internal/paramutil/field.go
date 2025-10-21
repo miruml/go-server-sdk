@@ -1,8 +1,8 @@
 package paramutil
 
 import (
-	"github.com/stainless-sdks/miru-server-go/packages/param"
-	"github.com/stainless-sdks/miru-server-go/packages/respjson"
+	"github.com/miruml/go-server-sdk/packages/param"
+	"github.com/miruml/go-server-sdk/packages/respjson"
 )
 
 func AddrIfPresent[T comparable](v param.Opt[T]) *T {

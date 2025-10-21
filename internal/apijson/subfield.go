@@ -1,7 +1,7 @@
 package apijson
 
 import (
-	"github.com/stainless-sdks/miru-server-go/packages/respjson"
+	"github.com/miruml/go-server-sdk/packages/respjson"
 	"reflect"
 )
 

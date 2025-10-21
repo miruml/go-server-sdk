@@ -2,7 +2,7 @@ package param
 
 import (
 	"encoding/json"
-	"github.com/stainless-sdks/miru-server-go/internal/encoding/json/sentinel"
+	"github.com/miruml/go-server-sdk/internal/encoding/json/sentinel"
 	"reflect"
 )
 

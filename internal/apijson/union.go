@@ -2,7 +2,7 @@ package apijson
 
 import (
 	"errors"
-	"github.com/stainless-sdks/miru-server-go/packages/param"
+	"github.com/miruml/go-server-sdk/packages/param"
 	"reflect"
 
 	"github.com/tidwall/gjson"
